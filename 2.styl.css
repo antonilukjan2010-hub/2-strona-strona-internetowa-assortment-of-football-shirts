@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://media.cnn.com/api/v1/images/stellar/prod/180917161106-ronaldo-5-tease.jpg?q=w_3796,h_2808,x_0,y_0,c_fill);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.siema {
+    color:rgb(6, 231, 119);
+    position: absolute;
+    font-size:28px;
+    left:680px;
+}
+.nav {
+    position:fixed;
+    top:0;
+    font-size:37px;
+}
